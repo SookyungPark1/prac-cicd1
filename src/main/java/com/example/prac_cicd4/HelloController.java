@@ -9,6 +9,6 @@ public class HelloController
 
     @GetMapping("/hi")
     public  String  hi(){
-        return  "hi cicd ^^";
+        return  "hi cicd ^^   코드 수정";
     }
 }
